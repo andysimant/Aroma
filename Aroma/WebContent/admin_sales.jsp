@@ -1,4 +1,4 @@
- <%@ page import="java.sql.*" %>
+<%@ page import="java.sql.*" %>
 <%@ page import="java.io.*" %>
 <%@ include file="admin_panel_header.jsp" %>
                         <div class="col-lg-12 col-md-12">
